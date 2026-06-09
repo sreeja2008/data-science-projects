@@ -1,13 +1,13 @@
-# Password Validator
+# project 1
+# Password Checker
 
-This project checks whether a password is strong or weak based on specific rules.
+This project checks whether a password is strong or weak.
 
 ## Features
-- Checks if password has at least 8 characters
-- Checks for at least one number
-- Checks for at least one special character
-- Classifies password as Valid or Invalid
-- Stores results in a file
+- Minimum 8 characters check
+- Must contain numbers
+- Must contain special characters
+- Shows Valid or Invalid result
 
 ## How to run
-python file.py
+python password_checker.py
